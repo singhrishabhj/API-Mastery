@@ -6,7 +6,7 @@ Welcome to **API-Mastery**, a journey from beginner to advanced API development!
 
 ## Roadmap to Master APIs
 
-### **🔹 1. API Basics**
+### **🔹 1. API Basics** [Read More](https://github.com/singhrishabhj/API-Mastery/tree/main/01_API_Basics)
 
 - What is an API?
 - Types of APIs (REST, SOAP, GraphQL, WebSockets, gRPC)
