@@ -14,7 +14,7 @@ This section is designed to help you **understand and work with APIs** from scra
 
 ## **📌 Learning Plan**  
 
-### **1️⃣ What is an API? → [Read More](#link-to-what-is-api)**  
+### **1️⃣ What is an API? → [Read More](https://github.com/singhrishabhj/API-Mastery/blob/main/01_API_Basics/01_what_is_api.md)**  
 📍 **Goal:** Understand what APIs are and why they are important.  
 - Definition of an API  
 - Real-world examples (Google Maps, Payment Gateways, Weather APIs)  
@@ -25,7 +25,7 @@ This section is designed to help you **understand and work with APIs** from scra
 
 ---
 
-### **2️⃣ Types of APIs → [Read More](#link-to-types-of-api)**  
+### **2️⃣ Types of APIs → [Read More](https://github.com/singhrishabhj/API-Mastery/blob/main/01_API_Basics/02_types_of_api.md)**  
 📍 **Goal:** Learn about different API architectures.  
 - **REST APIs** (Representational State Transfer)  
 - **SOAP APIs** (Simple Object Access Protocol)  
@@ -38,7 +38,7 @@ This section is designed to help you **understand and work with APIs** from scra
 
 ---
 
-### **3️⃣ HTTP Basics → [Read More](#link-to-http-basics)**  
+### **3️⃣ HTTP Basics → [Read More](https://github.com/singhrishabhj/API-Mastery/blob/main/01_API_Basics/03_http_basics.md)**  
 📍 **Goal:** Learn how APIs use HTTP to communicate.  
 - HTTP Methods: `GET`, `POST`, `PUT`, `DELETE`, etc.  
 - Status Codes: `200 OK`, `404 Not Found`, `500 Internal Server Error`  
@@ -49,7 +49,7 @@ This section is designed to help you **understand and work with APIs** from scra
 
 ---
 
-### **4️⃣ API Request & Response Structure → [Read More](#link-to-request-response)**  
+### **4️⃣ API Request & Response Structure → [Read More](https://github.com/singhrishabhj/API-Mastery/blob/main/01_API_Basics/04_request_response.md)**  
 📍 **Goal:** Understand the format of API requests and responses.  
 - Anatomy of an API request  
 - API response structure (Headers, Body, Status Code)  
@@ -62,16 +62,16 @@ This section is designed to help you **understand and work with APIs** from scra
 
 ### **5️⃣ API Testing Tools**  
 
-#### **🛠️ Postman → [Read More](#link-to-postman)**  
+#### **🛠️ Postman → [Read More](https://github.com/singhrishabhj/API-Mastery/blob/main/01_API_Basics/tools/01_postman.md)**  
 - Setting up Postman  
 - Sending GET & POST requests  
 - Handling authentication  
 
-#### **🛠️ cURL → [Read More](#link-to-curl)**  
+#### **🛠️ cURL → [Read More](https://github.com/singhrishabhj/API-Mastery/blob/main/01_API_Basics/tools/02_curl.md)**  
 - Running API requests from the terminal  
 - Sending headers and payloads  
 
-#### **🛠️ Browser DevTools → [Read More](#link-to-browser-devtools)**  
+#### **🛠️ Browser DevTools → [Read More](https://github.com/singhrishabhj/API-Mastery/blob/main/01_API_Basics/tools/03_browser_devtools.md)**  
 - Inspecting network requests  
 - Debugging API responses  
 
