@@ -1,4 +1,4 @@
-#
+# API-Mastery
 
 Welcome to **API-Mastery**, a journey from beginner to advanced API development! This repository is structured to help you learn APIs step by step, from basic concepts to building real-world applications.
 
