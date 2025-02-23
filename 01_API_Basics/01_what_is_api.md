@@ -1,7 +1,7 @@
 
 
 # **1. What is an API?**  
----
+
 ## **Objective**  
 The goal of this section is to understand **what an API is, how it works, and why it is essential** in software development.  
 
@@ -35,5 +35,5 @@ Similarly, in software, an API takes a **request** from an application, sends it
 
 ---
 
-## **Next Topic: [Types of APIs](#)**  
+## **Next Topic: [Types of APIs](https://github.com/singhrishabhj/API-Mastery/blob/main/01_API_Basics/02_types_of_api.md)**  
 Lets move on to next topic when you're ready to proceed. 🚀  
